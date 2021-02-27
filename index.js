@@ -1,0 +1,1 @@
+(()=>{"use strict";let e=document.querySelector(".burger-wrap"),t=document.querySelector(".header-guest__l-wr");e.addEventListener("click",(function(){t.classList.toggle("header-guest__l-wr_active")}))})();
